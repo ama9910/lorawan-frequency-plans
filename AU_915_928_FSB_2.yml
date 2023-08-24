@@ -38,6 +38,7 @@ lora-standard-channel:
   radio: 0
 dwell-time:
   downlinks: false
+  uplinks: false
 radios:
 - enable: true
   chip-type: SX1257
